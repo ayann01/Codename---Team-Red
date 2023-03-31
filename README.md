@@ -1,5 +1,7 @@
 
-## Team Red (credit - awesome red team)
+##  Code Name - Team Red 
+
+
 
 List of Awesome Red Team / Red Teaming Resources
 
